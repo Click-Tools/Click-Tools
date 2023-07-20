@@ -11,11 +11,11 @@
 
 - 📫 How to reach me **Discord: click_tools**
 
-- ⚡ Fun fact **Idk 🤷**
+- ⚡ Fun fact **I was bored and i created a nuke tools 🙃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/click_tools" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="click_tools" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Click_Tools_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="click_tools" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/C8sh5YTPTS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/C8sh5YTPTS" height="30" width="40" /></a>
 </p>
 
