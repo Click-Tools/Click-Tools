@@ -7,9 +7,17 @@
 <img src="https://komarev.com/ghpvc/?username=17teen&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/358310460187082763.png"/>
+  <img src="https://cdn.discordapp.com/attachments/1131309406013886567/1131586071931666503/Screenshot_6.png"/>
 </p>
 <p align="center">
-Currently learning JavaScript
+
+ ██████╗██╗     ██╗ ██████╗██╗  ██╗    ████████╗ ██████╗  ██████╗ ██╗     ███████╗
+██╔════╝██║     ██║██╔════╝██║ ██╔╝    ╚══██╔══╝██╔═══██╗██╔═══██╗██║     ██╔════╝
+██║     ██║     ██║██║     █████╔╝        ██║   ██║   ██║██║   ██║██║     ███████╗
+██║     ██║     ██║██║     ██╔═██╗        ██║   ██║   ██║██║   ██║██║     ╚════██║
+╚██████╗███████╗██║╚██████╗██║  ██╗       ██║   ╚██████╔╝╚██████╔╝███████╗███████║
+ ╚═════╝╚══════╝╚═╝ ╚═════╝╚═╝  ╚═╝       ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
+                                                                                  
+
 <p align="center">
     <a href="https://discord.gg/C8sh5YTPTS">Discord Server</a>
