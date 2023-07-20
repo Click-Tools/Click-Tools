@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @Click-Tools
-- 👀 I’m interested in: nothing bwahahaha
-- 🌱 I’m currently learning: idk just making more tools
-- 📫 How to reach me: go to my discord https://discord.gg/3pm4DmgyhR
-
-<!---
-Click-Tools/Click-Tools is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">  
+<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+</p>
+<p align="center">
+    7teen
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=17teen&color=grey">
+</p>
+    <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/358310460187082763.png"/>
+</p>
+<p align="center">
+Currently learning JavaScript
+<p align="center">
+    <a href="https://discord.gg/C8sh5YTPTS">Discord Server</a>
